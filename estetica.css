@@ -1,0 +1,92 @@
+#imagem{
+    position:fixed;
+    left:70%;
+    bottom:44%;
+}
+
+
+.flor{
+    font-size: 60px;
+    position:absolute;
+    right:39%;
+    bottom:50%;
+}
+
+#nao{
+    font-size:30px;
+    margin-left: 0px;
+    position:absolute;
+    left:30%;
+    bottom:45%;
+}
+
+#sim{
+    font-size:30px;
+    margin-left: 25px;
+    position:absolute;
+    left:40%;
+    top:50%;
+}
+
+body{
+    background-color:rgb(245, 210, 216);
+}
+
+.obg{
+    font-size:60px;
+    position:fixed;
+    bottom:50%;
+    left:20%;
+}
+
+.love{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    position:fixed;
+    bottom:40%;
+    left:20%;
+}
+
+.triste{
+    font-size:50px;
+    position:fixed;
+    bottom:50%;
+    left:15%;
+}
+
+#cachorro{
+    position:fixed;
+    left:60%;
+    bottom:10%;
+}
+
+#cachorroSus{
+    position:fixed;
+    bottom:20%;
+    left:15%;
+}
+
+@media (max-device-width:1200px){
+    .flor{position:absolute;
+        left:350px;    
+    }  
+    .flor{width:69px;
+    }
+}
+@media (max-device-width:1200px){
+    #nao{position:absolute;
+        left:350px;    
+    };
+    #sim{position:absolute;
+        right:330px;    
+    };
+}
+
+@media (max-device-width:1200px){
+    #cachorro{width:500px;
+    
+    }
+    .triste{width:90px;
+
+    }
+}
