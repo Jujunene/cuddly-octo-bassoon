@@ -1,2 +1,2 @@
 # cuddly-octo-bassoon
-meu primeiríssimo repositório
+first repository for test, site created "https://jujunene.github.io/cuddly-octo-bassoon/"
